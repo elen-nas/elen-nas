@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elen-nas
-- 👀 I’m interested in electronic art.
-- 🌱 I’m currently learning about nfts.
-- 💞️ I’m looking to collaborate on interactive projects.
+- 🌱 I’m a researcher on AI and Ethics since 2017.
+-  👀 My previous research and activities was about electronic art.
+- 💞️ I’m looking to collaborate on interactive projects as HCI and help the goals of making AI responsible and safe.
 - 📫 Reach me at elen.nas@utdallas.edu
 
 <!---
